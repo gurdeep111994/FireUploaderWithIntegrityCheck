@@ -1,0 +1,7 @@
+filesToUpload/
+.env
+credentials/firebase_adminsdk.json
+config/__pycache__/
+utils/__pycache__/
+downloaded_recs_small_dict.pkl
+logs/app.log
